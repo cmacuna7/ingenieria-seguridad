@@ -1,0 +1,18 @@
+# Claves, secretos y archivos generados por el laboratorio (nunca se versionan)
+*.key
+*.pem
+*.crt
+aes.key
+password.hash
+*.aesgcm
+*.recovered
+*.sig
+rsa_message.bin
+
+# Archivos de prueba
+acta.txt
+resolucion.txt
+
+# Entorno de Python
+.venv/
+__pycache__/
